@@ -17,4 +17,3 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
 packaging==24.0
-Fix Render deployment
